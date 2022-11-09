@@ -7,6 +7,3 @@ class PasswordChecker
     end
   end
 end
-
-# my_check = PasswordChecker.new
-# my_check.check("pineapple")

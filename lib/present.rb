@@ -10,5 +10,3 @@ class Present
     end
 end
 
-# my_present = Present.new
-# my_present.unwrap
