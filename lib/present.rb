@@ -9,4 +9,3 @@ class Present
         return @contents
     end
 end
-
